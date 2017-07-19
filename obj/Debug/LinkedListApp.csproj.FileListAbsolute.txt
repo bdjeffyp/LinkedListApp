@@ -1,0 +1,6 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.pdb
